@@ -9,3 +9,6 @@ b=5
 print("H")
 #HELLO
 print(a+b)
+
+while True:
+    a+=1
